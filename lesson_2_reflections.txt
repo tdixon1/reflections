@@ -5,3 +5,7 @@ When I initialize a repository git creates the necessary hidden folders to track
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 The staging area is a place we add files that will be tracked. The working directory is the local directory that stores all files regardless of tracking status. Upon comitt the repostiory stores all files and thier history.
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+Using the staging area allows us to commit only what was added to it. Thus allowing the committing of logical changes as opposed to the entire project.
