@@ -9,3 +9,7 @@ The staging area is a place we add files that will be tracked. The working direc
 How can you use the staging area to make sure you have one commit per logical change?
 
 Using the staging area allows us to commit only what was added to it. Thus allowing the committing of logical changes as opposed to the entire project.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+Branches come in handy when trying to implement experimantal features. They allow us to to implement this features without touching the main code base.
